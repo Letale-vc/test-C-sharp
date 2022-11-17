@@ -1,0 +1,15 @@
+G:\webPractik\csharp\TestConntextMenu\bin\Debug\TestConntextMenu.exe.config
+G:\webPractik\csharp\TestConntextMenu\bin\Debug\TestConntextMenu.exe
+G:\webPractik\csharp\TestConntextMenu\bin\Debug\TestConntextMenu.pdb
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu.csproj.AssemblyReference.cache
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\MainWindow.g.cs
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\App.g.cs
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu_MarkupCompile.cache
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu_MarkupCompile.lref
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\MainWindow.baml
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu.g.resources
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu.Properties.Resources.resources
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu.csproj.GenerateResource.cache
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu.exe
+G:\webPractik\csharp\TestConntextMenu\obj\Debug\TestConntextMenu.pdb

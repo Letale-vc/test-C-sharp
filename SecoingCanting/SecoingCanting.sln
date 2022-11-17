@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecoingCanting", "SecoingCanting.csproj", "{E5676141-3A8E-4CAD-A121-DCFB6E633D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5676141-3A8E-4CAD-A121-DCFB6E633D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5676141-3A8E-4CAD-A121-DCFB6E633D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5676141-3A8E-4CAD-A121-DCFB6E633D56}.Debug|x86.ActiveCfg = Debug|x86
+		{E5676141-3A8E-4CAD-A121-DCFB6E633D56}.Debug|x86.Build.0 = Debug|x86
+		{E5676141-3A8E-4CAD-A121-DCFB6E633D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5676141-3A8E-4CAD-A121-DCFB6E633D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5676141-3A8E-4CAD-A121-DCFB6E633D56}.Release|x86.ActiveCfg = Release|x86
+		{E5676141-3A8E-4CAD-A121-DCFB6E633D56}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA451A3-AAD0-4094-8FF1-98F9EA103288}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,48 @@
+﻿<Window x:Class="TestConntextMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestConntextMenu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid >
+        <DockPanel>
+           
+            <ListBox x:Name="listBox1">
+                <ListBox.ContextMenu  >
+                    <ContextMenu 
+      Name="cxm"
+      Opened="CxmOpened"
+    >
+
+                        <MenuItem 
+        Header="Copy" 
+        Name="cxmItemCopy"
+        Click="ClickCopy" 
+      />
+                        <MenuItem 
+        Header="Paste"
+        Name="cxmItemPaste"
+        Click="ClickPaste" 
+      />                        <MenuItem 
+        Header="Remove"
+        Name="cxmItemRemove"
+        Click="ClickRemove" 
+      />
+         
+                    </ContextMenu>
+                </ListBox.ContextMenu>
+                <ListBoxItem Content="321890-ferw321"/>
+
+
+                <ListBoxItem Content="321890-ferw321"/>
+                <ListBoxItem Content="321890-ferw321"/>
+              
+            </ListBox>
+        </DockPanel>
+        
+
+    </Grid>
+ 
+</Window>

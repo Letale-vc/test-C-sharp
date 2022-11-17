@@ -1,0 +1,16 @@
+G:\webPractik\csharp\newTestProject\bin\Debug\net5.0\newTestProject.exe
+G:\webPractik\csharp\newTestProject\bin\Debug\net5.0\newTestProject.deps.json
+G:\webPractik\csharp\newTestProject\bin\Debug\net5.0\newTestProject.runtimeconfig.json
+G:\webPractik\csharp\newTestProject\bin\Debug\net5.0\newTestProject.runtimeconfig.dev.json
+G:\webPractik\csharp\newTestProject\bin\Debug\net5.0\newTestProject.dll
+G:\webPractik\csharp\newTestProject\bin\Debug\net5.0\ref\newTestProject.dll
+G:\webPractik\csharp\newTestProject\bin\Debug\net5.0\newTestProject.pdb
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\newTestProject.csproj.AssemblyReference.cache
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\newTestProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\newTestProject.AssemblyInfoInputs.cache
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\newTestProject.AssemblyInfo.cs
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\newTestProject.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\newTestProject.dll
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\ref\newTestProject.dll
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\newTestProject.pdb
+G:\webPractik\csharp\newTestProject\obj\Debug\net5.0\newTestProject.genruntimeconfig.cache

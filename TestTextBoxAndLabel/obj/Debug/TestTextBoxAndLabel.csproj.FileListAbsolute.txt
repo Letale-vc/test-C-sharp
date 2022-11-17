@@ -1,0 +1,15 @@
+G:\webPractik\csharp\TestTextBoxAndLabel\bin\Debug\TestTextBoxAndLabel.exe.config
+G:\webPractik\csharp\TestTextBoxAndLabel\bin\Debug\TestTextBoxAndLabel.exe
+G:\webPractik\csharp\TestTextBoxAndLabel\bin\Debug\TestTextBoxAndLabel.pdb
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel.csproj.AssemblyReference.cache
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\MainWindow.g.cs
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\App.g.cs
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel_MarkupCompile.cache
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel_MarkupCompile.lref
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\MainWindow.baml
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel.g.resources
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel.Properties.Resources.resources
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel.csproj.GenerateResource.cache
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel.exe
+G:\webPractik\csharp\TestTextBoxAndLabel\obj\Debug\TestTextBoxAndLabel.pdb

@@ -1,0 +1,15 @@
+G:\webPractik\csharp\Placeholder\bin\Debug\Placeholder.exe.config
+G:\webPractik\csharp\Placeholder\bin\Debug\Placeholder.exe
+G:\webPractik\csharp\Placeholder\bin\Debug\Placeholder.pdb
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder.csproj.AssemblyReference.cache
+G:\webPractik\csharp\Placeholder\obj\Debug\MainWindow.g.cs
+G:\webPractik\csharp\Placeholder\obj\Debug\App.g.cs
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder_MarkupCompile.cache
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder_MarkupCompile.lref
+G:\webPractik\csharp\Placeholder\obj\Debug\MainWindow.baml
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder.g.resources
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder.Properties.Resources.resources
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder.csproj.GenerateResource.cache
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder.exe
+G:\webPractik\csharp\Placeholder\obj\Debug\Placeholder.pdb

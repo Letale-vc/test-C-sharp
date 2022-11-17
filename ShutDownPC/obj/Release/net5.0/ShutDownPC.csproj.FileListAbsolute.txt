@@ -1,0 +1,15 @@
+G:\webPractik\csharp\ShutDownPC\bin\Release\net5.0\ShutDownPC.exe
+G:\webPractik\csharp\ShutDownPC\bin\Release\net5.0\ShutDownPC.deps.json
+G:\webPractik\csharp\ShutDownPC\bin\Release\net5.0\ShutDownPC.runtimeconfig.json
+G:\webPractik\csharp\ShutDownPC\bin\Release\net5.0\ShutDownPC.runtimeconfig.dev.json
+G:\webPractik\csharp\ShutDownPC\bin\Release\net5.0\ShutDownPC.dll
+G:\webPractik\csharp\ShutDownPC\bin\Release\net5.0\ref\ShutDownPC.dll
+G:\webPractik\csharp\ShutDownPC\bin\Release\net5.0\ShutDownPC.pdb
+G:\webPractik\csharp\ShutDownPC\obj\Release\net5.0\ShutDownPC.GeneratedMSBuildEditorConfig.editorconfig
+G:\webPractik\csharp\ShutDownPC\obj\Release\net5.0\ShutDownPC.AssemblyInfoInputs.cache
+G:\webPractik\csharp\ShutDownPC\obj\Release\net5.0\ShutDownPC.AssemblyInfo.cs
+G:\webPractik\csharp\ShutDownPC\obj\Release\net5.0\ShutDownPC.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\ShutDownPC\obj\Release\net5.0\ShutDownPC.dll
+G:\webPractik\csharp\ShutDownPC\obj\Release\net5.0\ref\ShutDownPC.dll
+G:\webPractik\csharp\ShutDownPC\obj\Release\net5.0\ShutDownPC.pdb
+G:\webPractik\csharp\ShutDownPC\obj\Release\net5.0\ShutDownPC.genruntimeconfig.cache

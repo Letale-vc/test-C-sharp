@@ -1,0 +1,15 @@
+G:\webPractik\csharp\AutoStartWin\bin\Debug\AutoStartWin.exe.config
+G:\webPractik\csharp\AutoStartWin\bin\Debug\AutoStartWin.exe
+G:\webPractik\csharp\AutoStartWin\bin\Debug\AutoStartWin.pdb
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin.csproj.AssemblyReference.cache
+G:\webPractik\csharp\AutoStartWin\obj\Debug\MainWindow.g.cs
+G:\webPractik\csharp\AutoStartWin\obj\Debug\App.g.cs
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin_MarkupCompile.cache
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin_MarkupCompile.lref
+G:\webPractik\csharp\AutoStartWin\obj\Debug\MainWindow.baml
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin.g.resources
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin.Properties.Resources.resources
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin.csproj.GenerateResource.cache
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin.exe
+G:\webPractik\csharp\AutoStartWin\obj\Debug\AutoStartWin.pdb

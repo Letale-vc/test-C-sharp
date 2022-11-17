@@ -1,0 +1,15 @@
+G:\webPractik\csharp\listBoxTest\bin\Debug\listBoxTest.exe.config
+G:\webPractik\csharp\listBoxTest\bin\Debug\listBoxTest.exe
+G:\webPractik\csharp\listBoxTest\bin\Debug\listBoxTest.pdb
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest.csproj.AssemblyReference.cache
+G:\webPractik\csharp\listBoxTest\obj\Debug\MainWindow.g.cs
+G:\webPractik\csharp\listBoxTest\obj\Debug\App.g.cs
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest_MarkupCompile.cache
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest_MarkupCompile.lref
+G:\webPractik\csharp\listBoxTest\obj\Debug\MainWindow.baml
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest.g.resources
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest.Properties.Resources.resources
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest.csproj.GenerateResource.cache
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest.exe
+G:\webPractik\csharp\listBoxTest\obj\Debug\listBoxTest.pdb

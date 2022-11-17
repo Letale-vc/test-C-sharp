@@ -1,0 +1,15 @@
+G:\webPractik\csharp\ProgShutDownPC\bin\Debug\ProgShutDownPC.exe.config
+G:\webPractik\csharp\ProgShutDownPC\bin\Debug\ProgShutDownPC.exe
+G:\webPractik\csharp\ProgShutDownPC\bin\Debug\ProgShutDownPC.pdb
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC.csproj.AssemblyReference.cache
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\MainWindow.g.cs
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\App.g.cs
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC_MarkupCompile.cache
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC_MarkupCompile.lref
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\MainWindow.baml
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC.g.resources
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC.Properties.Resources.resources
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC.csproj.GenerateResource.cache
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC.exe
+G:\webPractik\csharp\ProgShutDownPC\obj\Debug\ProgShutDownPC.pdb

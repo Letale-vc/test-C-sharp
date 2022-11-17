@@ -1,0 +1,15 @@
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting.csproj.AssemblyReference.cache
+G:\webPractik\csharp\SecoingCanting\obj\Debug\App.g.cs
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting_MarkupCompile.cache
+G:\webPractik\csharp\SecoingCanting\bin\Debug\SecoingCanting.exe.config
+G:\webPractik\csharp\SecoingCanting\bin\Debug\SecoingCanting.exe
+G:\webPractik\csharp\SecoingCanting\bin\Debug\SecoingCanting.pdb
+G:\webPractik\csharp\SecoingCanting\obj\Debug\MainWindow.g.cs
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting_MarkupCompile.lref
+G:\webPractik\csharp\SecoingCanting\obj\Debug\MainWindow.baml
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting.g.resources
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting.Properties.Resources.resources
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting.csproj.GenerateResource.cache
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting.csproj.CoreCompileInputs.cache
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting.exe
+G:\webPractik\csharp\SecoingCanting\obj\Debug\SecoingCanting.pdb

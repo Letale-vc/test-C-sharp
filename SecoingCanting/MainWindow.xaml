@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SecoingCanting"
+        xmlns:Properties="clr-namespace:SecoingCanting.Properties" x:Class="SecoingCanting.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="595*"/>
+            <ColumnDefinition Width="197*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label x:Name="label1"
+               Content="0"
+               HorizontalAlignment="Left"
+               Margin="135,10,0,0"
+               VerticalAlignment="Top"
+               Height="190" 
+               Width="340"
+               FontSize="150" 
+               HorizontalContentAlignment="Center"
+        VerticalContentAlignment="Center" />
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="135" Margin="265,310,0,0" Height="45" Click="Button_Click"/>
+
+
+
+
+
+
+
+    </Grid>
+</Window>
